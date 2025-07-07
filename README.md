@@ -17,8 +17,8 @@ Aplicación de seguridad comunitaria para iOS desarrollada en Swift que permite 
 - CocoaPods para gestión de dependencias  
 
 ## ⚙️ Requisitos  
-- Xcode 13+  
-- iOS 14.0+  
+- Xcode Version 16.4 (16F6) 
+- iOS 18.0+ 
 - Cuenta de desarrollador Apple (para despliegue)  
 
 ## 🚀 Instalación  
@@ -37,6 +37,3 @@ Aplicación de seguridad comunitaria para iOS desarrollada en Swift que permite 
 
 ## 👤 Desarrollador  
 José Moreno ([@Josemor12](https://github.com/Josemor12))  
-
-## 📄 Licencia  
-MIT © 2023 - Ver [LICENSE](LICENSE)
