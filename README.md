@@ -1,5 +1,5 @@
 # Alerta Vecinal 3.0 🚨  
-![Alerta Vecinal Logo](https://github.com/Josemor12/Alerta-Vecinal-3.0/blob/main/logo.png)  
+AlertaVecinal3.0 - Copia de Seguridad/AlertaVecinal3.0/Resources/logo.png 
 
 Aplicación de seguridad comunitaria para iOS desarrollada en Swift que permite reportar incidentes y recibir alertas en tiempo real.  
 
