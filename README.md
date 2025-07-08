@@ -6,15 +6,13 @@ Aplicación de seguridad comunitaria para iOS desarrollada en Swift que permite 
 ## 📱 Características
 - Reportes en tiempo real con geolocalización
 - Mapa interactivo de incidentes (MapKit)
-- Sistema de autenticación con Firebase
 - Botón de emergencia con notificaciones push
 - Historial de reportes y perfiles verificados
 
 ## 🛠 Tecnologías
 - Swift 5 + MVVM
-- Firebase (Auth, Firestore, Cloud Messaging)
 - MapKit y CoreLocation
-- CocoaPods para gestión de dependencias
+- Core Data
 
 ## ⚙️ Requisitos
 - Xcode Version 16.4 (16F6)
