@@ -1,5 +1,5 @@
 # Alerta Vecinal 3.0 🚨  
-![Logo](https://github.com/Josemor12/Alerta-Vecinal-3.0/raw/main/AlertaVecinal3.0%20-%20Copia%20de%20Seguridad/AlertaVecinal3.0/Resources/logo.png)
+<img width="1470" height="870" alt="Captura de pantalla 2025-12-17 a la(s) 10 02 11 a  m" src="https://github.com/user-attachments/assets/7dda1948-9a0e-4f90-b1d4-be3edf22c2cc" />
 
 Aplicación de seguridad comunitaria para iOS desarrollada en Swift que permite reportar incidentes y recibir alertas en tiempo real.
 
@@ -45,10 +45,27 @@ Aplicación de seguridad comunitaria para iOS desarrollada en Swift que permite 
 - Notificaciones push pueden no funcionar correctamente
 - Algunas funciones avanzadas podrían estar limitadas
 
-## 📱 Comparativa: Instalación en iOS vs Android
+## 📱 Capturas de Pantalla
 
-### 🔒 Por qué es más complejo instalar apps en iPhone
-#### 🛡️ Modelo de Seguridad de Apple
-- **Ecosistema cerrado**: iOS usa un sistema "walled garden" para máxima seguridad
-- **Firma obligatoria**: Requiere certificados de Apple (gratis para desarrollo, $99/año para distribución)
-- **App Store exclusivo**: Instalación de terceros necesita jailbreak (anula garantía) o herramientas como AltStore
+<img width="1470" height="870" alt="Captura de pantalla 2025-12-17 a la(s) 9 48 37 a  m" src="https://github.com/user-attachments/assets/8362b4f5-8bd3-4261-b785-4bd95665c90b" />
+
+<img width="1470" height="870" alt="Captura de pantalla 2025-12-17 a la(s) 9 47 32 a  m" src="https://github.com/user-attachments/assets/a21994e1-cdaf-4225-98ac-ba1dfd57ec20" />
+
+<img width="1470" height="870" alt="Captura de pantalla 2025-12-17 a la(s) 9 44 10 a  m" src="https://github.com/user-attachments/assets/b1e36ce4-2d08-4742-8cb6-3951df420c19" />
+
+<img width="1470" height="870" alt="Captura de pantalla 2025-12-17 a la(s) 9 44 14 a  m" src="https://github.com/user-attachments/assets/e340b9df-0990-41e2-b7fb-1a95decfab69" />
+
+<img width="1470" height="869" alt="Captura de pantalla 2025-12-17 a la(s) 9 58 37 a  m" src="https://github.com/user-attachments/assets/22249d99-8630-40d7-89ed-aa3ab6c741cf" />
+
+<img width="1470" height="870" alt="Captura de pantalla 2025-12-17 a la(s) 9 46 51 a  m" src="https://github.com/user-attachments/assets/f0a58832-3b96-44b9-aee7-093ebdaff474" />
+
+
+
+
+
+
+
+
+
+
+
